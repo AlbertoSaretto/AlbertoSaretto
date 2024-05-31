@@ -1,5 +1,7 @@
 # Welcome to my GitHub Profile! 👋
 
+<br>
+
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
@@ -19,11 +21,14 @@
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
 </div>
 
+<br>
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=AlbertoSaretto&show_icons=true&theme=radical" alt="AlbertoSaretto's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoSaretto&layout=compact" alt="Top Langs" />
 </div>
+
+<br>
 
 ## Connect with Me
 - Email: [albertosaretto99@gmail.com](mailto:albertosaretto99@gmail.com)
