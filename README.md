@@ -1,9 +1,7 @@
 # Welcome to my GitHub Profile! 👋
 
-## GitHub Stats
 ![AlbertoSaretto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlbertoSaretto&show_icons=true&theme=radical)
 
-## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoSaretto&layout=compact)
 
 ## Connect with Me
