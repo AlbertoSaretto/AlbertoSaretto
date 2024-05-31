@@ -1,16 +1,15 @@
-## Hi there 👋
+# Welcome to my GitHub Profile! 👋
 
-<!--
-**AlbertoSaretto/AlbertoSaretto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## GitHub Stats
+![AlbertoSaretto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlbertoSaretto&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoSaretto&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me
+- Email: [albertosaretto99@gmail.com](mailto:youremail@example.com)
+- LinkedIn: [Alberto Saretto](https://www.linkedin.com/in/alberto-saretto-69ba95272/?trk=public_post_main-feed-card-text&originalSubdomain=it)
+
+
+
+
